@@ -1,0 +1,261 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Gyro"
+provides-nominal:
+- "C3ACC4Gyro"
+provides-member:
+- ["C3ACC4Gyro", ""]
+provides-dynamic-lookup:
+- "gyroy"
+- "queue"
+- "manager"
+- "gyroz"
+- "gyrox"
+depends-top-level:
+- "UIViewController"
+- "NSOperationQueue"
+- "CMMotionManager"
+- "Gyro"
+depends-member:
+- ["PSs9AnyObject", "CMMotionManager"]
+- ["PSs9AnyObject", "NSOperationQueue"]
+- ["PSs9AnyObject", "gyrox"]
+- ["PSs9AnyObject", "gyroy"]
+- ["PSs9AnyObject", "gyroz"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "mainQueue"]
+- ["PSs9AnyObject", "manager"]
+- ["PSs9AnyObject", "manager.storage"]
+- ["PSs9AnyObject", "queue"]
+- ["PSs9AnyObject", "queue.storage"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- ["CSo15CMMotionManager", "init"]
+- ["PSs11CVarArgType", "CMMotionManager"]
+- ["PSs11CVarArgType", "NSOperationQueue"]
+- ["PSs11CVarArgType", "gyrox"]
+- ["PSs11CVarArgType", "gyroy"]
+- ["PSs11CVarArgType", "gyroz"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "mainQueue"]
+- ["PSs11CVarArgType", "manager"]
+- ["PSs11CVarArgType", "manager.storage"]
+- ["PSs11CVarArgType", "queue"]
+- ["PSs11CVarArgType", "queue.storage"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "CMMotionManager"]
+- ["PSs23CustomStringConvertible", "NSOperationQueue"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["PSs23CustomStringConvertible", "gyrox"]
+- ["PSs23CustomStringConvertible", "gyroy"]
+- ["PSs23CustomStringConvertible", "gyroz"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "mainQueue"]
+- ["PSs23CustomStringConvertible", "manager"]
+- ["PSs23CustomStringConvertible", "manager.storage"]
+- ["PSs23CustomStringConvertible", "queue"]
+- ["PSs23CustomStringConvertible", "queue.storage"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "CMMotionManager"]
+- ["PSs9Equatable", "NSOperationQueue"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- ["PSs9Equatable", "gyrox"]
+- ["PSs9Equatable", "gyroy"]
+- ["PSs9Equatable", "gyroz"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "mainQueue"]
+- ["PSs9Equatable", "manager"]
+- ["PSs9Equatable", "manager.storage"]
+- ["PSs9Equatable", "queue"]
+- ["PSs9Equatable", "queue.storage"]
+- ["PSs9Equatable", ""]
+- ["C3ACC4Gyro", "CMMotionManager"]
+- ["C3ACC4Gyro", "NSOperationQueue"]
+- ["C3ACC4Gyro", "deinit"]
+- ["C3ACC4Gyro", "gyrox"]
+- ["C3ACC4Gyro", "gyroy"]
+- ["C3ACC4Gyro", "gyroz"]
+- ["C3ACC4Gyro", "init"]
+- ["C3ACC4Gyro", "manager"]
+- !private ["C3ACC4Gyro", "manager.storage"]
+- ["C3ACC4Gyro", "queue"]
+- !private ["C3ACC4Gyro", "queue.storage"]
+- ["PSs8Hashable", "CMMotionManager"]
+- ["PSs8Hashable", "NSOperationQueue"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- ["PSs8Hashable", "gyrox"]
+- ["PSs8Hashable", "gyroy"]
+- ["PSs8Hashable", "gyroz"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "mainQueue"]
+- ["PSs8Hashable", "manager"]
+- ["PSs8Hashable", "manager.storage"]
+- ["PSs8Hashable", "queue"]
+- ["PSs8Hashable", "queue.storage"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "CMMotionManager"]
+- ["PSo8NSCoding", "NSOperationQueue"]
+- ["PSo8NSCoding", "gyrox"]
+- ["PSo8NSCoding", "gyroy"]
+- ["PSo8NSCoding", "gyroz"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "manager"]
+- ["PSo8NSCoding", "manager.storage"]
+- ["PSo8NSCoding", "queue"]
+- ["PSo8NSCoding", "queue.storage"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "CMMotionManager"]
+- ["PSo26NSExtensionRequestHandling", "NSOperationQueue"]
+- ["PSo26NSExtensionRequestHandling", "gyrox"]
+- ["PSo26NSExtensionRequestHandling", "gyroy"]
+- ["PSo26NSExtensionRequestHandling", "gyroz"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "manager"]
+- ["PSo26NSExtensionRequestHandling", "manager.storage"]
+- ["PSo26NSExtensionRequestHandling", "queue"]
+- ["PSo26NSExtensionRequestHandling", "queue.storage"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "CMMotionManager"]
+- ["CSo8NSObject", "NSOperationQueue"]
+- ["CSo8NSObject", "gyrox"]
+- ["CSo8NSObject", "gyroy"]
+- ["CSo8NSObject", "gyroz"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "mainQueue"]
+- ["CSo8NSObject", "manager"]
+- ["CSo8NSObject", "manager.storage"]
+- ["CSo8NSObject", "queue"]
+- ["CSo8NSObject", "queue.storage"]
+- ["PSo16NSObjectProtocol", "CMMotionManager"]
+- ["PSo16NSObjectProtocol", "NSOperationQueue"]
+- ["PSo16NSObjectProtocol", "gyrox"]
+- ["PSo16NSObjectProtocol", "gyroy"]
+- ["PSo16NSObjectProtocol", "gyroz"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "mainQueue"]
+- ["PSo16NSObjectProtocol", "manager"]
+- ["PSo16NSObjectProtocol", "manager.storage"]
+- ["PSo16NSObjectProtocol", "queue"]
+- ["PSo16NSObjectProtocol", "queue.storage"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo16NSOperationQueue", "mainQueue"]
+- ["PSo21UIAppearanceContainer", "CMMotionManager"]
+- ["PSo21UIAppearanceContainer", "NSOperationQueue"]
+- ["PSo21UIAppearanceContainer", "gyrox"]
+- ["PSo21UIAppearanceContainer", "gyroy"]
+- ["PSo21UIAppearanceContainer", "gyroz"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "manager"]
+- ["PSo21UIAppearanceContainer", "manager.storage"]
+- ["PSo21UIAppearanceContainer", "queue"]
+- ["PSo21UIAppearanceContainer", "queue.storage"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "CMMotionManager"]
+- ["PSo18UIContentContainer", "NSOperationQueue"]
+- ["PSo18UIContentContainer", "gyrox"]
+- ["PSo18UIContentContainer", "gyroy"]
+- ["PSo18UIContentContainer", "gyroz"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "manager"]
+- ["PSo18UIContentContainer", "manager.storage"]
+- ["PSo18UIContentContainer", "queue"]
+- ["PSo18UIContentContainer", "queue.storage"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "CMMotionManager"]
+- ["PSo18UIFocusEnvironment", "NSOperationQueue"]
+- ["PSo18UIFocusEnvironment", "gyrox"]
+- ["PSo18UIFocusEnvironment", "gyroy"]
+- ["PSo18UIFocusEnvironment", "gyroz"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "manager"]
+- ["PSo18UIFocusEnvironment", "manager.storage"]
+- ["PSo18UIFocusEnvironment", "queue"]
+- ["PSo18UIFocusEnvironment", "queue.storage"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "CMMotionManager"]
+- ["CSo11UIResponder", "NSOperationQueue"]
+- ["CSo11UIResponder", "gyrox"]
+- ["CSo11UIResponder", "gyroy"]
+- ["CSo11UIResponder", "gyroz"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "manager"]
+- ["CSo11UIResponder", "manager.storage"]
+- ["CSo11UIResponder", "queue"]
+- ["CSo11UIResponder", "queue.storage"]
+- ["PSo16UIStateRestoring", "CMMotionManager"]
+- ["PSo16UIStateRestoring", "NSOperationQueue"]
+- ["PSo16UIStateRestoring", "gyrox"]
+- ["PSo16UIStateRestoring", "gyroy"]
+- ["PSo16UIStateRestoring", "gyroz"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "manager"]
+- ["PSo16UIStateRestoring", "manager.storage"]
+- ["PSo16UIStateRestoring", "queue"]
+- ["PSo16UIStateRestoring", "queue.storage"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "CMMotionManager"]
+- ["PSo18UITraitEnvironment", "NSOperationQueue"]
+- ["PSo18UITraitEnvironment", "gyrox"]
+- ["PSo18UITraitEnvironment", "gyroy"]
+- ["PSo18UITraitEnvironment", "gyroz"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "manager"]
+- ["PSo18UITraitEnvironment", "manager.storage"]
+- ["PSo18UITraitEnvironment", "queue"]
+- ["PSo18UITraitEnvironment", "queue.storage"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "CMMotionManager"]
+- ["CSo16UIViewController", "NSOperationQueue"]
+- ["CSo16UIViewController", "gyrox"]
+- ["CSo16UIViewController", "gyroy"]
+- ["CSo16UIViewController", "gyroz"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "manager"]
+- ["CSo16UIViewController", "manager.storage"]
+- ["CSo16UIViewController", "queue"]
+- ["CSo16UIViewController", "queue.storage"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "CSo15CMMotionManager"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "C3ACC4Gyro"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo16NSOperationQueue"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+interface-hash: "37287a9dc98e8df0b790c58fbde9d7d5"

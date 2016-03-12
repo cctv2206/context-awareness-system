@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "ee6f21b541f9575d62cd3629492f8251"
+build_time: [511124799, 34308000]
+inputs:
+  "/Users/kk/Desktop/ACC/ACC/Gyroscop.swift": !dirty [499999141, 0]
+  "/Users/kk/Desktop/ACC/ACC/AppDelegate.swift": !dirty [499789097, 0]
+  "/Users/kk/Desktop/ACC/ACC/ViewController.swift": !dirty [500419183, 0]
+  "/Users/kk/Desktop/ACC/ACC/Accelerometer.swift": !dirty [499640626, 0]

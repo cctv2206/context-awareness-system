@@ -1,0 +1,86 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Accelerometer"
+provides-nominal:
+- "C3ACC13Accelerometer"
+provides-member:
+- ["C3ACC13Accelerometer", ""]
+provides-dynamic-lookup:
+- "accY"
+- "accZ"
+- "accX"
+depends-top-level:
+- "Double"
+- "Accelerometer"
+- "NSManagedObject"
+depends-member:
+- ["C3ACC13Accelerometer", "Double"]
+- ["C3ACC13Accelerometer", "accX"]
+- ["C3ACC13Accelerometer", "accY"]
+- ["C3ACC13Accelerometer", "accZ"]
+- ["C3ACC13Accelerometer", "deinit"]
+- ["C3ACC13Accelerometer", "init"]
+- ["PSs9AnyObject", "accX"]
+- ["PSs9AnyObject", "accY"]
+- ["PSs9AnyObject", "accZ"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "accX"]
+- ["PSs11CVarArgType", "accY"]
+- ["PSs11CVarArgType", "accZ"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "accX"]
+- ["PSs23CustomStringConvertible", "accY"]
+- ["PSs23CustomStringConvertible", "accZ"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "accX"]
+- ["PSs9Equatable", "accY"]
+- ["PSs9Equatable", "accZ"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "accX"]
+- ["PSs8Hashable", "accY"]
+- ["PSs8Hashable", "accZ"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", ""]
+- ["CSo15NSManagedObject", "Double"]
+- ["CSo15NSManagedObject", "accX"]
+- ["CSo15NSManagedObject", "accY"]
+- ["CSo15NSManagedObject", "accZ"]
+- ["CSo15NSManagedObject", "init"]
+- ["CSo15NSManagedObject", ""]
+- ["CSo8NSObject", "Double"]
+- ["CSo8NSObject", "accX"]
+- ["CSo8NSObject", "accY"]
+- ["CSo8NSObject", "accZ"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "accX"]
+- ["PSo16NSObjectProtocol", "accY"]
+- ["PSo16NSObjectProtocol", "accZ"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+depends-nominal:
+- "C3ACC13Accelerometer"
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "431bf1c73f4e32bd6ba85f2f8e69194e"
